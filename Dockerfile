@@ -1,4 +1,4 @@
-FROM Ubuntu
+FROM ubuntu
 
 
 # Create app directory
